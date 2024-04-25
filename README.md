@@ -17,7 +17,7 @@
    3. JAVASCRIPT
 
 ## Author :
-   Mohd Mudabbir
+   Mohd Mudabbir <br>
    Email: csemudabbir@gmail.com
 
 ## Link :
